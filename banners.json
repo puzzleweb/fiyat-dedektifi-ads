@@ -1,3 +1,11 @@
 {
-  "banners": []
+  "banners": [
+    {
+      "id": "kampanya1",
+      "imageUrl": "https://puzzleweb.github.io/fiyat-dedektifi-ads/kampanya.png",
+      "link": "https://orneksponsor.com",
+      "alt": "Sponsor Kampanyası",
+      "active": true
+    }
+  ]
 }
